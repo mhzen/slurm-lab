@@ -1,0 +1,2 @@
+ranks,intervals,pi,abs_error,seconds
+2,100000000,3.141592653590022,2.292e-13,0.115820

@@ -1,0 +1,2 @@
+Hello from rank 0 of 1 on ubuntu
+CHECK ranks=1 sum=0 expected=0

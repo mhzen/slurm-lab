@@ -1,0 +1,4 @@
+ranks,repeats,median_seconds,speedup,efficiency
+1,3,0.219055,1.000,1.000
+2,3,0.120918,1.812,0.906
+4,3,0.078174,2.802,0.701
